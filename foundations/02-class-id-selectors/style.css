@@ -1,0 +1,19 @@
+.classy {
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #90ee90;
+}
